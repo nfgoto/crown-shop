@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crown-shop/static/css/main.e6c9f6e0.css",
+    "main.js": "/crown-shop/static/js/main.8f0fe005.js",
+    "index.html": "/crown-shop/index.html",
+    "main.e6c9f6e0.css.map": "/crown-shop/static/css/main.e6c9f6e0.css.map",
+    "main.8f0fe005.js.map": "/crown-shop/static/js/main.8f0fe005.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c9f6e0.css",
+    "static/js/main.8f0fe005.js"
+  ]
+}
