@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/crown-shop/static/css/main.1487b1e3.css",
-    "main.js": "/crown-shop/static/js/main.95052fa4.js",
+    "main.js": "/crown-shop/static/js/main.c766417c.js",
     "index.html": "/crown-shop/index.html",
     "main.1487b1e3.css.map": "/crown-shop/static/css/main.1487b1e3.css.map",
-    "main.95052fa4.js.map": "/crown-shop/static/js/main.95052fa4.js.map"
+    "main.c766417c.js.map": "/crown-shop/static/js/main.c766417c.js.map"
   },
   "entrypoints": [
     "static/css/main.1487b1e3.css",
-    "static/js/main.95052fa4.js"
+    "static/js/main.c766417c.js"
   ]
 }
