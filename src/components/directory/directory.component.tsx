@@ -45,8 +45,8 @@ class Directory extends Component<{}, DirectoryState> {
     ],
   };
 
-  constructor() {
-    super({});
+  constructor(props = {}) {
+    super(props);
   }
 
   render() {
